@@ -15,7 +15,3 @@ const MONGO_URI = process.env.MONGO_URI;
     process.exit(1);
   }
 })();
-<<<<<<< HEAD
- 
-=======
->>>>>>> a4a43c5 (feat: initial Office Management backend (Node + MongoDB))
